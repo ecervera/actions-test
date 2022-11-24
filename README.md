@@ -1,3 +1,3 @@
 # actions-test
 
-test 2
+release
